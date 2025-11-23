@@ -4,7 +4,7 @@
 
 - **Author**: Ruben Bridgewater
 - **Champions**: Ruben Bridgewater, Jordan Harband
-- **Stage**: 0
+- **Stage**: 1
 - **Related Proposals**: [Object.propertyCount()](https://github.com/tc39/proposal-object-property-count)
 
 ---
